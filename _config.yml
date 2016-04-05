@@ -1,0 +1,28 @@
+name: mikes
+favicon: null
+layout_spectrum: 0.47183376271277666
+typography_spectrum: 0.3303183438256383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5651446224655956
+  lightness: 0.5609397017396986
+  saturation: 0.6935417961794883
+  rhythmicContrast: 0.45012700743973255
+purpose: []
